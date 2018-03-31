@@ -26,7 +26,6 @@ export default {
   }
   body {
     font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, SimSun, sans-serif;
-    background-color: #DEECF9;;
   }
   a {
     text-decoration: none;
