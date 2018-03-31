@@ -1,4 +1,4 @@
-# whaley-bi-program
+# te-vue-app
 
 > A Vue.js project
 
